@@ -28,7 +28,7 @@
 
 ## TBERT 模型使用
 
-注：TBERT 使用SentencePiece构建词表，需将Google发布的[BERT](https://github.com/google-research/bert)中的 WordPiece 分词器替换为可以加载 SentencePiece 工具子词算法所生成的分词器，在使用时TBERT需注意。
+注：TBERT 使用SentencePiece构建词表，需将Google发布的[BERT](https://github.com/google-research/bert)中的 WordPiece 分词器替换为可以加载 SentencePiece 工具的分词器，在使用时TBERT需注意。
 
 PyTorch 版本（可以直接使用 Transformers 中的 BertModel 进行加载）
 
