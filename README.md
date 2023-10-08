@@ -16,7 +16,7 @@
 
 目前提供 PyTorch 版本和 tensorflow 版本的 TBERT 模型的下载。Tensorflow 版本 Tibetan-BERT-wwm 模型的下载。
 
-| 模型名称     | transformers模型库地址                          |
+| 模型名称     | 模型下载地址                        |
 |----------------|------------------------------------------------|
 | TBERT-pytorch | https://huggingface.co/Pagewood/TBERT-pytorch       |
 | TBERT-tensorflow | https://huggingface.co/Pagewood/TBERT-tensorflow |
